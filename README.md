@@ -5,7 +5,7 @@ Developer Team:
 - César Adilson Ayala Vásquez (Progrmador full stack)                  AV190068
 - Alejandro José Castillo Pacheco (Programador front End)              CP190719
 - Liliana Gisella Lopez Cáceres (Programadora tester)                  LC170104
-- Luis Ernesto Hernández Ramirez (Programador tester)                  HR152213
+- Luis Ernesto Hernández Ramirez (Programador back End)                HR152213
 - Denilson Emmanuel Chávez Cruz (Scrum Master, Programador front End)  CC161302
 
 
